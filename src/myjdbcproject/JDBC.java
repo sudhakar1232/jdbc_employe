@@ -27,13 +27,6 @@ public class JDBC {
 				//Execute SQL Statement
 // insert of the Customer of ExecuteQuery
 		//resultSet=stmt.executeQuery("select*from Customer");
-		//resultSet=stmt.executeQuery("select*from Customer");
-		//resultSet=stmt.executeQuery("select*from Customer");
-		//resultSet=stmt.executeQuery("select*from Customer");
-		//resultSet=stmt.executeQuery("select*from Customer");
-		//resultSet=stmt.executeQuery("select*from Customer");
-		//resultSet=stmt.executeQuery("select*from Customer");
-		//resultSet=stmt.executeQuery("select*from Customer");
 				
 //insert of the Train of ExecuteQuery			
 		//resultSet=stmt.executeQuery("select*from train");
